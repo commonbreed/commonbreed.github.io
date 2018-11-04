@@ -2,7 +2,7 @@
 layout: post
 title:  "Writing an x86_64 bootloader in NASM"
 date:   2018-11-02 22:38:12 +0000
-categories: jekyll update
+categories: nasm bootloader x86_64
 ---
 The following code has been taken from [3zanders - Alex Parker's Website][3zanders].
 This post is here for syntax highlighting demonstration only.
