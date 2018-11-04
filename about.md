@@ -11,7 +11,9 @@ Benjamin Crawford
   <div class="progress-bar" role="progressbar" style="width: 33%; font-size: 2em;" aria-valuenow="33" aria-valuemin="0" aria-valuemax="100">Year 1</div>
 </div>
 
-+ Degree Apprentice with [ARM Ltd][arm] in Cambridge
+  Degree Apprentice with [ARM Ltd][arm] in Cambridge.  
+  Studying towards the [Cisco Certified Network Associate (CCNA R&S)][ccna-rs] certification.
 
 [essexuni]:  https://www1.essex.ac.uk/apprenticeships/apprentices/beng-electronic-engineering.aspx
 [arm]:       https://www.arm.com/
+[ccna-rs]:   https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/associate/ccna-routing-switching.html
