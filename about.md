@@ -10,8 +10,8 @@ permalink: /cv/
 </div>
 
   Degree Apprentice with [ARM Ltd][arm] in Cambridge.  
-  Studying towards the [Cisco Certified Network Associate (CCNA R&S)][ccna-rs] certification.
-  Proud member of the [Institution of Engineering and Technology][theiet].
+  Studying towards the [Cisco Certified Network Associate (CCNA R&S)][ccna-rs] certification.  
+  Proud member of the [Institution of Engineering and Technology][theiet].  
 
 [essexuni]:  https://www1.essex.ac.uk/apprenticeships/apprentices/beng-electronic-engineering.aspx
 [arm]:       https://www.arm.com/
